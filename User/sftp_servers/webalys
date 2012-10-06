@@ -1,0 +1,26 @@
+{
+    // The tab key will cycle through the settings when first created
+
+    // sftp, ftp or ftps
+    "type": "ftp",
+    "sync_down_on_open": true,
+
+    "host": "ftp.alwaysdata.com",
+    "user": "webalys_steph",
+    "password": "chiangmai",
+    //"port": "22",
+
+    "remote_path": "/www/webalys",
+    //"file_permissions": "664",
+    //"dir_permissions": "775",
+
+    "connect_timeout": 30,
+    //"ftp_passive_mode": true,
+    //"ssh_key_file": "~/.ssh/id_rsa",
+    //"sftp_flags": "-F /path/to/ssh_config",
+
+    //"preserve_modification_times": false,
+    //"remote_time_offset_in_hours": 0,
+    //"remote_encoding": "utf-8",
+    //"remote_locale": "C",
+}

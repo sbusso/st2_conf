@@ -1,0 +1,13 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  // "theme": "Soda Dark.sublime-theme",
+  "trim_trailing_white_space_on_save": true,
+  "tab_completion": true,
+  "highlight_active_indent_guide": true,
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache", ".yardoc", ".gitkeep", ".idea", ".bundle"],
+  "file_exclude_patterns": [".gitkeep", ".DS_Store"],
+  "highlight_modified_tabs": true
+}

@@ -1,0 +1,33 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/solarized-sublimetext2/Solarized (light).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".gitkeep",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".yardoc",
+		".gitkeep",
+		".idea",
+		".bundle",
+		"tmp",
+		"log"
+	],
+	"font_size": 12.0,
+	"highlight_active_indent_guide": true,
+	"highlight_modified_tabs": true,
+	"soda_classic_tabs": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
