@@ -1,0 +1,6 @@
+{
+  "git_command": "/usr/bin/git",
+  "rulers": [70],
+  "word_wrap": true,
+  "wrap_width": 69
+}

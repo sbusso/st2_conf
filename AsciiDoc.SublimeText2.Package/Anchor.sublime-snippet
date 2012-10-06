@@ -1,0 +1,5 @@
+<snippet>
+   <description>Anchor</description>
+   <content><![CDATA[[[${1:name}]]]]></content>
+   <scope>text.html.asciidoc</scope>
+</snippet>
